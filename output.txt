@@ -1,0 +1,3 @@
+me@2017-10-19 22:17:29 ~GOPATH/src/github.com/thomas91310/dd-stats/udp_test_server (master●●)$ ./udp_test_server
+Received:  _e{34,35}:YO_NAMESPACE.S3_DOWNLOADER.COUNTER|Starting to download events from S3|d:1508467839|p:low|t:info
+Received:  _e{31,31}:YO_NAMESPACE.S3_DOWNLOADER.EXIT|Done downloading events from S3|d:1508467839|p:normal|t:warning
